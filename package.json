@@ -1,0 +1,23 @@
+{
+  "name": "aws-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuRaj26198/aws-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuRaj26198/aws-tutorial/issues"
+  },
+  "homepage": "https://github.com/HimanshuRaj26198/aws-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
